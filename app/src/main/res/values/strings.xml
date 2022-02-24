@@ -1,0 +1,25 @@
+<resources>
+  <string name="app_name">List View Canonical Layout</string>
+
+  <string name="fab">Floating action button</string>
+  <string name="nav_fab_text">Compose</string>
+  <string name="nav_button">Expand/contract navigation bar</string>
+
+  <string name="menu_page_1_title">Page 1</string>
+  <string name="menu_page_2_title">Page 2</string>
+  <string name="menu_page_3_title">Page 3</string>
+  <string name="menu_page_4_title">Page 4</string>
+
+  <string name="inbox_title">Inbox</string>
+  <string name="email_text">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Fringilla est ullamcorper eget nulla facilisi etiam dignissim. Tellus integer feugiat scelerisque varius morbi enim nunc faucibus a.
+    Nisi lacus sed viverra tellus in hac. Ridiculus mus mauris vitae ultricies leo integer malesuada.
+  </string>
+  <string name="email_timestamp">Now</string>
+  <string name="email_title">Email Title</string>
+  <string name="sender_title">John Doe</string>
+  <string name="menu_archive_button">Archive</string>
+  <string name="menu_delete_button">Delete</string>
+  <string name="menu_unread_button">Mark as unread</string>
+</resources>
